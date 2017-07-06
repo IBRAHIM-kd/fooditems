@@ -1,0 +1,1 @@
+web:  gunicorn cup.wsgi --log-file -
