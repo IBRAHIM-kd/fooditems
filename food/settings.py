@@ -25,7 +25,7 @@ SECRET_KEY = 'y(!%+w_@0v!84*u!h#7&$-tok5$we&6*r4wh6v!@)@t4^wzp5k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["ufoods.herokuapp.com"]
 
 
 # Application definition
